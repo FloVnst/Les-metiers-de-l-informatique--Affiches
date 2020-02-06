@@ -4,7 +4,7 @@
 
 ## Télécharger :
 
-Cliquez sur le lien suivant pour télécharger les affiches au format zip :  
+Cliquez sur le lien suivant pour **télécharger les affiches au format zip** :  
 [Télécharger](https://github.com/FlorianVaneste/Les-metiers-de-l-informatique--IUT-de-Lens/archive/master.zip)  
 
 ## Crédits :
