@@ -3,8 +3,7 @@
 **Cet ensemble d'affiches présente les principaux métiers de l'informatique.**
 
 ## Télécharger :  
-Cliquez sur le lien suivant pour **télécharger les affiches au format zip** :  
-[Télécharger](https://github.com/FlorianVaneste/Les-metiers-de-l-informatique--IUT-de-Lens/archive/master.zip)  
+[Télécharger au format zip](https://github.com/FlorianVaneste/Les-metiers-de-l-informatique--IUT-de-Lens/archive/master.zip)  
 
 ## Crédits :  
 > **Design :** Ethan Cybulski, [Florian Vaneste](https://github.com/FlorianVaneste)  
