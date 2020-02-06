@@ -2,18 +2,20 @@
 
 **Cet ensemble d'affiches présente les principaux métiers de l'informatique.**
 
-## Télécharger :
-
+## Télécharger :  
 Cliquez sur le lien suivant pour **télécharger les affiches au format zip** :  
 [Télécharger](https://github.com/FlorianVaneste/Les-metiers-de-l-informatique--IUT-de-Lens/archive/master.zip)  
 
-## Crédits :
+## Crédits :  
 > **Design :** Ethan Cybulski, [Florian Vaneste](https://github.com/FlorianVaneste)  
 > **Contenu :** [Thomas Cottrez](https://github.com/MegaOctets), Ethan Cybulski, [Florian Vaneste](https://github.com/FlorianVaneste)  
 > **Illustrations :** Ethan Cybulski, [Florian Vaneste](https://github.com/FlorianVaneste), Freepik, Icons8  
 Tous droits réservés.
 
-## Sources :
+## Licence et conditions :  
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>.
+
+## Sources utilisées :  
 > [CIDJ](https://www.cidj.com)  
 > [Studyrama](https://www.studyrama.com)  
 > [Onisep](http://www.onisep.fr/)  
