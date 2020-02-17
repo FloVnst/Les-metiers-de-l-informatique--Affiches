@@ -1,6 +1,7 @@
 # Les métiers de l'informatique – IUT de Lens
 
-**Cet ensemble d'affiches présente les principaux métiers de l'informatique.**
+**Cet ensemble d'affiches présente les principaux métiers de l'informatique.**  
+Nous avons réalisé ces affiches à l'occasion de la Journée Portes-Ouvertes 2020 de l'IUT de Lens.
 
 ## Télécharger :  
 Cliquez sur le lien suivant pour télécharger les affiches :  
@@ -34,5 +35,5 @@ Cliquez sur le lien suivant pour télécharger les affiches :
 ![Gestion de données](Gestion-de-données.jpg)
 ![Commerce](Commerce.jpg)
 
-Ethan Cybulski – Thomas Cottrez – Florian Vaneste  
+Ethan Cybulski – Thomas Cottrez – Florian Vaneste, étudiants de DUT Informatique à l'IUT de Lens  
 Licence Creative Commons Attribution - Pas de Modification 4.0 International
