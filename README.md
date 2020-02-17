@@ -35,5 +35,5 @@ Cliquez sur le lien suivant pour télécharger les affiches :
 ![Gestion de données](Gestion-de-données.jpg)
 ![Commerce](Commerce.jpg)
 
-Ethan Cybulski – Thomas Cottrez – Florian Vaneste, étudiants de DUT Informatique à l'IUT de Lens  
+**Ethan Cybulski – Thomas Cottrez – Florian Vaneste**, étudiants de DUT Informatique à l'IUT de Lens  
 Licence Creative Commons Attribution - Pas de Modification 4.0 International
