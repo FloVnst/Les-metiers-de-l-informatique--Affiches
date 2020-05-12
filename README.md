@@ -1,4 +1,4 @@
-# Les métiers de l'informatique – IUT de Lens
+# Les métiers de l'informatique – Posters
 
 **Cet ensemble d'affiches présente les principaux métiers de l'informatique.**  
 Nous avons réalisé ces affiches à l'occasion de la Journée Portes-Ouvertes 2020 de l'IUT de Lens.
