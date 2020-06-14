@@ -13,7 +13,7 @@ Cliquez sur le lien suivant pour télécharger les affiches :
 > **Illustrations :** Ethan Cybulski, [Florian Vaneste](https://github.com/FlorianVaneste), Freepik, Icons8  
 
 ## Licence et conditions :  
-<a rel="license" target="_blank" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Licence Creative Commons Attribution - Pas de Modification 4.0 International</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International</a>.
 
 ## Sources utilisées :  
 > [CIDJ](https://www.cidj.com)  
@@ -37,4 +37,4 @@ Cliquez sur le lien suivant pour télécharger les affiches :
 
 **Ethan Cybulski – Thomas Cottrez – Florian Vaneste**, étudiants de DUT Informatique à l'IUT de Lens  
 
-Licence Creative Commons Attribution - Pas de Modification 4.0 International
+Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International
