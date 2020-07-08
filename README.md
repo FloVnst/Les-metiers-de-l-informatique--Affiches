@@ -8,9 +8,9 @@ Cliquez sur le lien suivant pour télécharger les affiches :
 [Télécharger au format zip](https://github.com/FlorianVaneste/Les-metiers-de-l-informatique--IUT-de-Lens/archive/master.zip)  
 
 ## Crédits :  
-> **Design :** Ethan Cybulski, [Florian Vaneste](https://github.com/FlorianVaneste)  
-> **Contenu :** [Thomas Cottrez](https://github.com/MegaOctets), Ethan Cybulski, [Florian Vaneste](https://github.com/FlorianVaneste)  
-> **Illustrations :** Ethan Cybulski, [Florian Vaneste](https://github.com/FlorianVaneste), Freepik, Icons8  
+> **Design :** [Ethan Cybulski](https://github.com/EthanCblsk), [Florian Vaneste](https://github.com/FlorianVaneste)  
+> **Contenu :** [Thomas Cottrez](https://github.com/MegaOctets), [Ethan Cybulski](https://github.com/EthanCblsk), [Florian Vaneste](https://github.com/FlorianVaneste)  
+> **Illustrations :** [Ethan Cybulski](https://github.com/EthanCblsk), [Florian Vaneste](https://github.com/FlorianVaneste), Freepik, Icons8  
 
 ## Licence et conditions :  
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International</a>.
